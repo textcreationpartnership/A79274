@@ -1,0 +1,501 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The biggest idol in the world knock'd i'th' head. The verb's triumph: or, The second part of Calverley's notes. : Which notes rightly distinguish the hitherto horribly misdistinguished grounds of speech; and proveth the rules of the common grammar so false and ridiculous, that it's dishonour for any learned nation to teach or account them for rules: therefore all grammarians and lovers of true distinction are desired to stand up quickly in vindication of the common grammar, or else to procure a grammar sensible, brief and pleasant, lest (by our slighting of this method) other lands entertain it first, and we (for our ingratitude) be forced to learn it of them, to our grief and shame.</title>
+            <author>Calverley, Francis.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79274</idno>
+            <idno type="STC">Wing C318aA</idno>
+            <idno type="STC">ESTC R175638</idno>
+            <idno type="EEBO-CITATION">45097595</idno>
+            <idno type="OCLC">ocm 45097595</idno>
+            <idno type="VID">171205</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79274)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171205)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2567:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The biggest idol in the world knock'd i'th' head. The verb's triumph: or, The second part of Calverley's notes. : Which notes rightly distinguish the hitherto horribly misdistinguished grounds of speech; and proveth the rules of the common grammar so false and ridiculous, that it's dishonour for any learned nation to teach or account them for rules: therefore all grammarians and lovers of true distinction are desired to stand up quickly in vindication of the common grammar, or else to procure a grammar sensible, brief and pleasant, lest (by our slighting of this method) other lands entertain it first, and we (for our ingratitude) be forced to learn it of them, to our grief and shame.</title>
+                  <author>Calverley, Francis.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Author suggested by Wing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grammar, Comparative and general --  Verb.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171205:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 49 -->
+            <p>THE Biggeſt IDOL IN THE WORLD Knock'd i'th Head.</p>
+            <p>
+               <hi>The Verb's Triumph:</hi> Or the <hi>Second Part</hi> of Calverley's Notes.</p>
+            <p>Which NOTES rightly Diſtinguiſh the hitherto horribly miſdiſtinguiſhed <hi>Grounds of Speech;</hi> And proveth the <hi>Rules</hi> of the <hi>Common Grammar</hi> ſo falſe and ridiculous, that it's Diſhonour for any <hi>Learned Nation</hi> to Teach or Account them for RULES:</p>
+            <p>Therefore all <hi>Grammarians</hi> and Lovers of True Diſtinction are deſired to ſtand up quickly in Vindication of the <hi>Common Grammar,</hi> or elſe to procure a <hi>Grammar</hi> ſenſible, brief and pleaſant, leſt (by our ſlighting of this Method) other <hi>Lands</hi> entertain it firſt, and we (for our Ingratitude) be forced to learn it of them, to our grief and ſhame.</p>
+            <q>
+               <l>Be not to God ſ' ingrate, of th' World the ſcorn,</l>
+               <l>But let's th' whole World with this bright Gem adorn.</l>
+               <l>Then <hi>England</hi>'s th' Miſtris, ſole Empereſs,</l>
+               <l>None but her ſelf diſtinct <hi>Rules</hi> doth expreſs,</l>
+               <l>For th' <hi>Grounds of Speech,</hi> wherein both great and ſmall</l>
+               <l>Learn'd but to go, t' creep Babe-like by the wall,</l>
+               <l>Till ſhe them taught to walk, nimbly to run,</l>
+               <l>As Innocence when th' World at firſt begun.</l>
+            </q>
+            <p>
+               <hi>London;</hi> Printed for the Author. 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:171205:2"/>
+            <!-- PDF PAGE 50 -->
+            <pb facs="tcp:171205:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 50 -->
+            <p>A VERB is the <hi>Queen</hi> or <hi>Grace</hi> of <hi>Eloquence,</hi> relating the <hi>action</hi> of <hi>ſomething;</hi> as, <hi>To love.</hi>
+            </p>
+            <p>A <hi>Verb</hi> (in <hi>Latin</hi>) endeth prin<g ref="char:EOLhyphen"/>cipally in <hi>re;</hi> as <hi>Amare,</hi> or in <hi>i,</hi> as <hi>Dignari.</hi>
+            </p>
+            <p>A <hi>Verb</hi> is diſtinguiſhed by <hi>Noti<g ref="char:EOLhyphen"/>fication, Illuſtration,</hi> and <hi>Perſon<g ref="char:EOLhyphen"/>ation.</hi>
+            </p>
+            <p>There be Four Families of <hi>Verbs;</hi> And <hi>Notification</hi> ſhews of what Fa<g ref="char:EOLhyphen"/>mily each <hi>Verb</hi> is, by the <hi>vowel long</hi> or <hi>ſhort</hi> preceeding the ſaid <hi>re</hi> or <hi>i</hi> in the Verbs <hi>Palace,</hi> as,</p>
+            <list>
+               <item>
+                  <hi>Verbs</hi> of the <hi>firſt Family</hi> have <hi>a</hi> long before <hi>re,</hi> or <hi>i;</hi> as <hi>Amare, Dignari.</hi>
+               </item>
+               <item>
+                  <hi>Verbs</hi> of the <hi>ſecond Family</hi> have <hi>e</hi> long before <hi>re,</hi> or <hi>i;</hi> as <hi>Latere, Tueri.</hi>
+               </item>
+               <item>
+                  <hi>Verbs</hi> of the <hi>third Family</hi> have <hi>e</hi> ſhort before <hi>re,</hi> or <hi>i;</hi> as <hi>Bibere, Gradi.</hi>
+               </item>
+               <item>
+                  <hi>Verbs</hi> of the <hi>fourth Family</hi> have <hi>i</hi> long before <hi>re,</hi> and <hi>i;</hi> as <hi>Audire, Oriri.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>Illuſtration</hi> is the <hi>muſtering</hi> up of the <hi>Verbs, Dignities,</hi> or ſeveral <hi>Endings,</hi> which are <hi>Eight,</hi> and or<g ref="char:EOLhyphen"/>derly ſhewed <hi>in</hi> and <hi>by</hi> the <hi>Queen<g ref="char:EOLhyphen"/>dom</hi> of the <hi>Verb;</hi> which <hi>Queendom</hi> conſiſts of a <hi>Royal Palace</hi> and <hi>Seven flouriſhing Principalities</hi> or <hi>Ladies,</hi> as follow: <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Amare, amaviſſe, amatum, amans, amandi, amando, amandum, amatu, amaturus. Latere, latuiſſe, latium, latens, latendi, latendo, latendum, latitu, latiturus. Bibere, bibiſſe, bi<g ref="char:EOLhyphen"/>bitum, bibens, bibendi, bibendo, biben<g ref="char:EOLhyphen"/>dum, bibitu, bibiturus. Audire, au<g ref="char:EOLhyphen"/>diviſſe, auditum, audiens, audiendi, audiendo, audiendum, auditu, audi<g ref="char:EOLhyphen"/>turus.</hi>
+            </p>
+            <p>The firſt in each Family, is the <hi>Queen-Verb,</hi> as <hi>Amare.</hi>
+            </p>
+            <p>The next is the Siſter, as <hi>Ama<g ref="char:EOLhyphen"/>viſſe;</hi> they two live and cohabit together in the Palace.</p>
+            <p>The Seven Ladies of Honour each in her peculiar Principality as they ſtand directly in the Queen<g ref="char:EOLhyphen"/>dom or Illuſtration, which is that which is miſtakingly called the <hi>In<g ref="char:EOLhyphen"/>finitive Mood.</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>England</hi> be th' firſt theſe vaſt Mi<g ref="char:EOLhyphen"/>ſtakes t' amend,</l>
+               <l>So ſhall thy Fame ſpread World without end.</l>
+            </q>
+            <p>
+               <hi>Verbs</hi> which have any difference from the Examples in the Illuſtra<g ref="char:EOLhyphen"/>tion are Irregulars.</p>
+            <p>The Irregularity of <hi>Verbs</hi> is two-fold, <hi>viz.</hi> Natural and Illu<g ref="char:EOLhyphen"/>ſtrative.</p>
+            <list>
+               <item>The Natural Irregularity of <hi>Verbs</hi> is firſt by exchange of the
+<pb facs="tcp:171205:3" rendition="simple:additions"/>
+                  <!-- PDF PAGE 51 -->firſt Letter in the <hi>Queen-Verb</hi> into another Letter in the <hi>Siſter,</hi> as <hi>Age<g ref="char:EOLhyphen"/>re, Egiſſe.</hi>
+               </item>
+               <item>2. By changing the firſt Syllable into another Syllable, as <hi>Ferre, Tu<g ref="char:EOLhyphen"/>liſſe.</hi>
+               </item>
+               <item>3. By change of a Letter in the midſt of a Word into another Letter in the <hi>Siſter,</hi> as <hi>Incipere, In<g ref="char:EOLhyphen"/>cepiſſe.</hi>
+               </item>
+               <item>4. By a Letter in the <hi>Queen</hi> whereof the <hi>Siſter</hi> doth not accept, as <hi>Cumbere, Cubuiſſe.</hi>
+               </item>
+            </list>
+            <p>The Illuſtrative Irregularity is,</p>
+            <list>
+               <item>1. When the laſt <hi>Conſonant</hi> in the body of the <hi>Verb</hi> is changed into ſome other <hi>Conſonant</hi> or <hi>Con<g ref="char:EOLhyphen"/>ſonants,</hi> as <hi>Dicere, dixiſſe. Scribere, ſcripſiſſe. Sinere, ſiviſſe. Flectere, flexiſſe.</hi>
+               </item>
+               <item>2. When the ſaid <hi>Conſonant</hi> doth (in the <hi>Siſter</hi>) aſſume to take the <hi>Vowel is</hi> after it, as <hi>Vomere, vomu<g ref="char:EOLhyphen"/>iſſe.</hi>
+               </item>
+               <item>3. When the <hi>Queen's Siſter</hi> ſwerves from her Rule, as <hi>Tonuiſſe</hi> of <hi>Tonare, Juſſiſſe</hi> of <hi>Jubere, Cu<g ref="char:EOLhyphen"/>buiſſe</hi> of <hi>Cumbere, Campſiſſe</hi> of <hi>Cam<g ref="char:EOLhyphen"/>bire.</hi>
+               </item>
+               <item>4. When the firſt <hi>Lady</hi> ſwerves from her Rule, as <hi>Sepultum</hi> of <hi>Sepe<g ref="char:EOLhyphen"/>lire.</hi>
+               </item>
+            </list>
+            <p>The ſixth and ſeventh <hi>Ladies</hi> are after the firſt, as <hi>Sepultu, ſepulturus,</hi> of <hi>Sepultum.</hi>
+            </p>
+            <p>The firſt, ſecond, and ſeventh <hi>Ladies</hi> are changable from <hi>Verbs</hi> to <hi>Adjuncts</hi> whenſoever the ſignifica<g ref="char:EOLhyphen"/>tion requires. Be ready to tell on; demand what, and where the Ir<g ref="char:EOLhyphen"/>regularity is, for Radical Under<g ref="char:EOLhyphen"/>ſtanding renders that infinitely de<g ref="char:EOLhyphen"/>lightful which Ignorance and miſ<g ref="char:EOLhyphen"/>ordering render grievous and irk<g ref="char:EOLhyphen"/>ſom.</p>
+            <q>
+               <l>So th' <hi>Verb</hi> for <hi>prime Uſe</hi> and <hi>De<g ref="char:EOLhyphen"/>light</hi> is crown'd;</l>
+               <l>Late <hi>Ignorance</hi> therein our <hi>Senſes</hi> drown'd.</l>
+            </q>
+            <p>Here follow the <hi>Irregular Verbs</hi> hitherto called, <hi>As in Prae<g ref="char:EOLhyphen"/>ſenti.</hi>
+            </p>
+            <list>
+               <head>
+                  <hi>Irregular Verbs</hi> of the <hi>firſt Family.</hi>
+               </head>
+               <item>LAvare,</item>
+               <item>juvare,</item>
+               <item>nexare, </item>
+               <item>ſecare,</item>
+               <item>necare,</item>
+               <item>micare,</item>
+               <item>plicare,</item>
+               <item>fricare,</item>
+               <item>domare,</item>
+               <item>tonare,</item>
+               <item>ſonare,</item>
+               <item>crepare,</item>
+               <item>ve<g ref="char:EOLhyphen"/>tare,</item>
+               <item>cubare,</item>
+               <item>dare,</item>
+               <item>ſtare.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Irregulars</hi> of the <hi>Second Family.</hi>
+               </head>
+               <item>J<g ref="char:V">Ʋ</g>bere,</item>
+               <item>ſorbere,</item>
+               <item>mulcere,</item>
+               <item>videre,</item>
+               <item>prandere,</item>
+               <item>ſtridere,</item>
+               <item>ſuadere,</item>
+               <item>ridere,</item>
+               <item>lucere,</item>
+               <item>ſedere,</item>
+               <item>ardere,</item>
+               <item>pendere,</item>
+               <item>mor<g ref="char:EOLhyphen"/>dere,</item>
+               <item>ſpondere,</item>
+               <item>tondere,</item>
+               <item>urgere,</item>
+               <item>mul<g ref="char:EOLhyphen"/>gere,</item>
+               <item>frigere,</item>
+               <item>augere,</item>
+               <item>flere,</item>
+               <item>lere,</item>
+               <item>plere,</item>
+               <item>nere,</item>
+               <item>manere,</item>
+               <item>torquere,</item>
+               <item>herere,</item>
+               <item>fervere,</item>
+               <item>nivere,</item>
+               <item>ſiere,</item>
+               <item>viere.</item>
+            </list>
+            <p>
+               <list>
+                  <head>
+                     <hi>Irregulars</hi> of the <hi>Third Family.</hi>
+                  </head>
+                  <item>
+                     <label>B.</label> 
+                     <hi>C<g ref="char:V">Ʋ</g>mbere, nubere, ſcribere.</hi>
+                  </item>
+                  <item>
+                     <label>C.</label> 
+                     <hi>Vincere, parcere, dicere, ducere.</hi>
+                  </item>
+                  <item>
+                     <label>D.</label> 
+                     <hi>Scindere, findere, fundere,
+<pb facs="tcp:171205:3" rendition="simple:additions"/>
+                        <!-- PDF PAGE 51 -->pendere, tendere, pedere, cadere, cae<g ref="char:EOLhyphen"/>dere, cedere, vadere, radere, laedere, ludere, dividere, trudere, claudere, plaudere, rodere.</hi>
+                  </item>
+                  <item>
+                     <label>G.</label> 
+                     <hi>Jungere, legere, agere, tangere, pungere, frangere, pangere, ſpargere.</hi>
+                  </item>
+                  <item>
+                     <label>H.</label> 
+                     <hi>Tr<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>re, vehere.</hi>
+                  </item>
+                  <item>
+                     <label>L.</label> 
+                     <hi>Colere, ſallere, pſallere, vellere, fallere, cellere, pellere.</hi>
+                  </item>
+                  <item>
+                     <label>M.</label> 
+                     <hi>Vomere, come<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e, promere, de<g ref="char:EOLhyphen"/>mere, ſumere, premere.</hi>
+                  </item>
+                  <item>
+                     <label>N.</label> 
+                     <hi>Temnere, ſternere, ſpernere, linere, cernere, gignere, ponere, canere.</hi>
+                  </item>
+                  <item>
+                     <label>P.</label> 
+                     <hi>Scalpere, rumpere, ſtrepere, crepere.</hi>
+                  </item>
+                  <item>
+                     <label>Q.</label> 
+                     <hi>Linquere, coquere.</hi>
+                  </item>
+                  <item>
+                     <label>R.</label> 
+                     <hi>Serere, ſerere, verrere, urere, gerere, querere, terere, currere.</hi>
+                  </item>
+                  <item>
+                     <label>S.</label> 
+                     <hi>Accerſere, arceſſere, inceſſere, laceſſere, capeſſ<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>re, faceſſere.</hi>
+                  </item>
+                  <item>
+                     <label>SC</label>. <hi>Paſcere, poſcere, diſcere, qui<g ref="char:EOLhyphen"/>niſcere.</hi>
+                  </item>
+                  <item>
+                     <label>T.</label> 
+                     <hi>Vertere, ſiſtere, mittere, petere, ſtertere.</hi>
+                  </item>
+                  <item>
+                     <label>Ct</label>. <hi>Flectere, pectere, nectere.</hi>
+                  </item>
+                  <item>
+                     <label>V.</label> 
+                     <hi>Volvere, vivere.</hi>
+                  </item>
+                  <item>
+                     <label>U.</label> 
+                     <hi>Statuere, pluere, ſtruere.</hi>
+                  </item>
+                  <item>
+                     <label>X.</label> 
+                     <hi>Texere.</hi>
+                  </item>
+               </list>
+               <hi>Facere, ſpecere, fodere, fugere, ca<g ref="char:EOLhyphen"/>pers, cupere, rapere, ſapere, parere, quatere.</hi>
+            </p>
+            <list>
+               <head>
+                  <hi>Irregulars</hi> of the <hi>Fourth Family.</hi>
+               </head>
+               <item>VEnire,</item>
+               <item>cambire,</item>
+               <item>farcire,</item>
+               <item>ſartire,</item>
+               <item>ſepire,</item>
+               <item>ſentire,</item>
+               <item>fulcire,</item>
+               <item>amicire,</item>
+               <item>vincire,</item>
+               <item>ſalire,</item>
+               <item>ſepelire.</item>
+            </list>
+            <p>Of above One Hundred and Fifty pretended <hi>Verbs</hi> preceeding <hi>Praete<g ref="char:EOLhyphen"/>ritum dat idem,</hi> in that called, <hi>As in preſenti,</hi> in the <hi>Common Grammar,</hi> not one of them is a <hi>Verb;</hi> there be ſo many <hi>Nouns</hi> indeed there, for every Final <hi>o</hi> there is a <hi>Noun,</hi> and the reſt of the pretended <hi>Verbs</hi> are but remnants of diſmembred Bo<g ref="char:EOLhyphen"/>dies, wofully weltering in their goar, ſo that its an admiration that <hi>Grammar</hi> Teachers can have the hearts ſo needleſly to toſſicate ſuch multitudes of mangled <hi>Ladies,</hi> whoſe ſufferings in the <hi>Perſonation</hi> are ſufficiently lamentable. <hi>Add not affliction to afflictions any more for ſhame.</hi>
+            </p>
+            <p>No leſs ridiculouſly ſtands <hi>o</hi> in the pretended Rules <hi>bo, co, do, go,</hi> &amp;c. for the <hi>o</hi> is uſeleſs there, for it is the <hi>Conſonant</hi> only which is concerned there, and fully per<g ref="char:EOLhyphen"/>forms, as is plainly ſhewed in the Exceptions aforeſaid.</p>
+            <p>And in like manner in <hi>Dictiona<g ref="char:EOLhyphen"/>ries, Vocabularies,</hi> &amp;c. <hi>o</hi> is nonſen<g ref="char:EOLhyphen"/>ſically ſet, as in <hi>Abigo, abigis egi, abactum ere,</hi> and the like; for three of thoſe five ſuppoſed Termina<g ref="char:EOLhyphen"/>tions of a <hi>Verb,</hi> are not any thing of a <hi>Verb,</hi> but plainly <hi>Nouns.</hi> And the fifth is miſplaced; ſet the <hi>Queen</hi> firſt, as <hi>Abigere.</hi> She ſhews the <hi>Fa<g ref="char:EOLhyphen"/>mily,</hi> and how to perſonate.</p>
+            <p>Next ſet down the <hi>Siſter,</hi> as <hi>Abe<g ref="char:EOLhyphen"/>giſſe:</hi> ſhe (the noble <hi>Verb,</hi> not the <hi>Preter,</hi> a <hi>Noun</hi>) ought to ſtand there.</p>
+            <p>And thirdly and laſtly, Set down the firſt <hi>Lady,</hi> as <hi>Abactum.</hi> She unlocks and leads into the ſpacious walks of the moſt harmonious <hi>Ad<g ref="char:EOLhyphen"/>juncts.</hi> And by theſe three we have
+<pb facs="tcp:171205:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 52 -->all which we would have had by thoſe five.</p>
+            <p>Learn to muſter up <hi>Regulars</hi> and <hi>Irregulars</hi> ſo readily as can be.</p>
+            <p>The <hi>Illuſtration</hi> is no more, nor other but only that (miſtakingly) called <hi>Infinitive Mood.</hi> Adds not any labour, but the apprehend<g ref="char:EOLhyphen"/>ing it rightly brings aboundant knowledge and delight. So that what hath heretofore been trouble<g ref="char:EOLhyphen"/>ſom and irkſom, will now be done with eaſe and recreating pleaſure.</p>
+            <q>
+               <l>For he goes merrily on that knows his way,</l>
+               <l>Whilſt Ignorance (in doubts and fears) muſt ſtray.</l>
+            </q>
+            <p>
+               <hi>Perſonation</hi> is the joyning and expeſſing of the perſon of a <hi>Noun</hi> together or in one with a <hi>Verb,</hi> ſo that the World hath (through all Ages hitherto) taken it for one word, which are (indeed) two diſtinct words and Parts of Speech, as <hi>Amabam.</hi> The <hi>abam</hi> is <hi>Ego</hi>'s ſe<g ref="char:EOLhyphen"/>cond Lord Lieutenant, and alſo the diſtinction of time, ſignifying <hi>I did,</hi> and <hi>am</hi> is the remainder of the captiv'd and wofully diſmem<g ref="char:EOLhyphen"/>bred <hi>Queen.</hi> She and her <hi>Engliſh</hi> ſtand invariably, whilſt the Per<g ref="char:EOLhyphen"/>ſon's Lieutenants skip nimbly a<g ref="char:EOLhyphen"/>bout in joylly triumph, making her ſerve their humours at their becks; for ſhe is (when perſonated) a ſlave, not a <hi>Verb,</hi> but a perſonated or <hi>Noun-Verb;</hi> for there being not any <hi>Verb</hi> perſonal, and the <hi>Verb (Ipſa pietas)</hi> having not any <hi>Mood,</hi> the <hi>Noun</hi> (to force the <hi>Verb</hi> to an<g ref="char:EOLhyphen"/>ſwer to the humour of any of his three perſons <hi>ſingularly</hi> and <hi>plurally</hi>) ſent for two hundred and ſixty of the wildeſt and fierceſt <hi>Barbarians,</hi> by whom he made War on the <hi>Verb,</hi> took her and her Siſter and Ladies Priſoners, barbarouſly mur<g ref="char:EOLhyphen"/>dered or diſmembred each one of them. And ſo, ſubjecting them to Perſonation, conſtituted the Con<g ref="char:EOLhyphen"/>querours Lords Lieutenants of his Perſons, placing and uniting thoſe his ſo victorious Vaſſals with the <hi>Verb</hi> in pretence of the <hi>Verb's Terminations,</hi> though the <hi>Verb</hi> hath not any <hi>Termination,</hi> but only thoſe eight in the <hi>Illuſtration.</hi>
+            </p>
+            <p>The <hi>Perſonation</hi> is performed by cutting away from <hi>
+                  <g ref="char:V">Ʋ</g>erbs</hi> of the firſt and third Families the two laſt Syllables, and in place thereof ſet<g ref="char:EOLhyphen"/>ting the pretended <hi>Termination,</hi> as <hi>Am-are Amo, Leg-ere Lego.</hi>
+            </p>
+            <p>From <hi>
+                  <g ref="char:V">Ʋ</g>erbs</hi> of the ſecond and fourth Families, cut away the laſt Syllable, and in place thereof ſet the pretended <hi>Termination,</hi> as <hi>late-re lateo, audi-re audio.</hi> Yea cut away head, body and all, ſave only the feet, and add the pretended <hi>Termi<g ref="char:EOLhyphen"/>nation</hi> after the <hi>Reſervation,</hi> as <hi>Ir-e Eo.</hi>
+            </p>
+            <p>A <hi>Noun</hi> will have his Action ex<g ref="char:EOLhyphen"/>preſſed in three <hi>Moods,</hi> viz. <hi>Indi<g ref="char:EOLhyphen"/>cative, Imparative</hi> and <hi>Potential.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:171205:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 52 -->
+               <list>
+                  <head>
+                     <hi>Indicative Mood</hi> in the <hi>firſt Family.</hi>
+                  </head>
+                  <item>
+                     <label>
+                        <gap reason="illegible: in gutter" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ret.</label> 
+                     <hi>o</hi> I love, <hi>as</hi> thou loveſt, <hi>at</hi> he loveth; <hi>Pluraliter, amus</hi> we love, <hi>atis</hi> ye love, <hi>ant</hi> they love.</item>
+                  <item>
+                     <label>
+                        <gap reason="illegible: in gutter" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>reſ.</label> 
+                     <hi>abam</hi> I loved, <hi>abas</hi> thou loved, <hi>abat</hi> he loved; <hi>Pluraliter, abamus</hi> we loved, <hi>abatis</hi> ye loved, <hi>abant</hi> they loved.<lb/>
+                     <hi>Am avi</hi> I have loved, <hi>aviſti</hi> thon haſt loved, <hi>avit</hi> he hath loved, <hi>Pluraliter, avimus</hi> we have loved, <hi>aviſtis</hi> ye have loved, <hi>averunt vel avere</hi> they have loved.<lb/>
+                     <hi>averam</hi> I had loved, <hi>averas</hi> thou hadſt loved, <hi>averat</hi> he had loved, <hi>Pluraliter, averamus</hi> we had loved, <hi>averatis averant.</hi>
+                  </item>
+                  <item>
+                     <label>
+                        <gap reason="illegible: in gutter" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ut.</label> 
+                     <hi>abo</hi> I ſhall love, <hi>abis</hi> thou ſhalt love, <hi>abit</hi> he ſhall love; <hi>Pluraliter, abimus</hi> we ſhall love, <hi>abitis</hi> ye ſhall love, <hi>abunt</hi> they ſhall love.</item>
+                  <item>
+                     <label>Imparative Mood.</label>
+                     <lb/>
+                     <hi>a ato</hi> love thou, <hi>et ato</hi> let him love; <hi>Pluraliter, emus</hi> let us love, <hi>ate atote</hi> love ye, <hi>ent anto</hi> let them love.</item>
+               </list>
+            </p>
+            <p>
+               <label>Potential Mood.</label>
+               <lb/>
+               <hi>em</hi> I may love, <hi>es</hi> thou maiſt love, <hi>et</hi> he may love; <hi>Pluraliter, emus</hi> we may love, <hi>etis</hi> ye may love, <hi>ent</hi> they may love.<lb/>
+               <hi>arem</hi> I might love, <hi>ares</hi> thou mightſt love, <hi>aret</hi> he might love; <hi>Pluraliter, aremus</hi> we might love, <hi>aretis</hi> ye might love, <hi>arent</hi> they might love.<lb/>
+               <hi>Am averim</hi> I might have loved, <hi>averis</hi> thou might have loved, <hi>averit</hi> he might have loved; <hi>Pluraliter, averimus</hi> we might have lo<g ref="char:EOLhyphen"/>ved, <hi>averitis</hi> ye might have loved, <hi>averint</hi> they might have loved.<lb/>
+               <hi>aviſſem</hi> I might have had loved, <hi>aviſſes, aviſſet; Pluraliter, aviſſemus, aviſſetis, aviſſent,</hi> they might have had loved.<lb/>
+               <hi>avero</hi> I may or can love hereafter, <hi>averis</hi> thou maiſt love hereaf<g ref="char:EOLhyphen"/>ter; <hi>averit, Pluraliter, averimus, averitis, averint,</hi> they may love hereafter.</p>
+            <p>
+               <list>
+                  <head>
+                     <hi>Indicative Mood</hi> in the ſecond, third and fourth <hi>Families.</hi>
+                  </head>
+                  <item>Late o,
+s,
+t,
+<hi>Pl.</hi> mus,
+tis,
+nt,</item>
+                  <item>Bib o,
+is,
+it,
+<hi>Pl.</hi> imus,
+itis,
+unt.</item>
+                  <item>Audi o,
+s,
+t,
+<hi>Pl.</hi> mus,
+tis,
+unt.</item>
+               </list>
+            </p>
+            <p>
+               <pb facs="tcp:171205:5"/>
+               <!-- PDF PAGE 53 -->
+The Perſonation is all one with that in the <hi>Common Accidence</hi> or <hi>Grammar,</hi> as if thoſe pretended Terminations and theſe Diſtincti<g ref="char:EOLhyphen"/>ons had been made at once, only here abbreviated, right titled, and radically underſtood. O ſtrange, that the World ſhould not diſtin<g ref="char:EOLhyphen"/>guiſh ſuch notable Roiſters, de<g ref="char:EOLhyphen"/>boiſt Murderers and Uſurpers, as the Perſonating <hi>Nouns</hi> be from <hi>
+                  <g ref="char:V">Ʋ</g>erbs!</hi>
+            </p>
+            <p>Here's the Plot of Plots diſco<g ref="char:EOLhyphen"/>vered indeed, the late tedious and irkſom way made brief, eaſie, and pleaſant, by throwing away what<g ref="char:EOLhyphen"/>ſoever was burthenſom to memo<g ref="char:EOLhyphen"/>ry, As <hi>Propria quae Maribus</hi> (ſo imperfect and difficult, that not any yet in the known World, un<g ref="char:EOLhyphen"/>leſs by theſe Notes) is perfectly Maſter hereof) is now made an eaſie Leſſon for the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> reading Child, and that within compaſs of a <hi>Crown-piece.</hi> Even ſo is all the woful clutter about formation of <hi>Preter</hi> and <hi>Supine</hi> found to be vain, ſenſleſs and ridiculous, for that called <hi>Supine,</hi> is the firſt <hi>Lady,</hi> form<g ref="char:EOLhyphen"/>ed from all eternity. And as for the <hi>Preter</hi> the Perſonation doth it; Beſides, do but cut away <hi>ſſe</hi> from the <hi>Siſter,</hi> with a daſh of a <hi>Pen,</hi> or thought thereof, and the remain<g ref="char:EOLhyphen"/>der is (in any <hi>Verb</hi>) the <hi>Preter,</hi> as <hi>Amavi-ſſe, Docui-ſſe.</hi>
+            </p>
+            <p>Furthermore, to ſhew the In<g ref="char:EOLhyphen"/>comprehenſibility of the <hi>
+                  <g ref="char:V">Ʋ</g>erb,</hi> you may (of any <hi>
+                  <g ref="char:V">Ʋ</g>erb</hi>) make all the <hi>Parts</hi> and <hi>Particles of Speech,</hi> as is taught in the thirteenth <hi>Page</hi> of the firſt <hi>Part</hi> hereof.</p>
+            <p>Alſo the <hi>
+                  <g ref="char:V">Ʋ</g>erb</hi> hath the honour to be natural Mother of the moſt noble and graceful <hi>Nouns</hi> as of the ſixth <hi>Lady,</hi> by change of <hi>u</hi> for <hi>or</hi> comes <hi>Amator, Doctor, Creator,</hi> &amp;c. as is alſo at large ſhewed in the firſt <hi>Part</hi> hereof. And ſo that you (af<g ref="char:EOLhyphen"/>ter you perceive theſe Diſtin<g ref="char:EOLhyphen"/>ctions, and what a learned Synod will make thereof) will ſay, That former Ages have ſeen nothing but Dreams in the Grounds of Speech.</p>
+            <q>
+               <l>For this Great Bliſs, <hi>England,</hi> give God due praiſe,</l>
+               <l>Who thee 'bove other People high doth raiſe.</l>
+            </q>
+            <trailer>FINIS.</trailer>
+            <epigraph>
+               <q>
+                  <l>If other Nations you deſire to Teach</l>
+                  <l>Th' moſt glorious things of th' Grounds of their own Speech,</l>
+                  <l>Me buy, and quickly you'l their Maſter be,</l>
+                  <l>So <hi>England</hi> triumph in God's love to thee,</l>
+                  <l>For th' World Diſtinction true ne're found before,</l>
+                  <l>So <hi>England</hi>'s Glory's now (by much) the more.</l>
+               </q>
+            </epigraph>
+            <pb facs="tcp:171205:6"/>
+            <!-- PDF PAGE 54 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
